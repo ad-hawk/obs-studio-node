@@ -10,8 +10,8 @@ environment:
   matrix:
     - RuntimeURL: https://atom.io/download/atom-shell
       RuntimeName: iojs
-      RuntimeVersion: v5.0.0
-      ElectronVersion: 5.0.0
+      RuntimeVersion: v5.0.1
+      ElectronVersion: 5.0.1
       NodeVersion: 10 
 
   SLBuildDirectory: streamlabs-build
